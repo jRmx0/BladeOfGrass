@@ -1,0 +1,6 @@
+[submodule "controller"]
+	path = controller
+	url = https://github.com/jRmx0/BladeOfGrass-mower.git
+[submodule "ntrip-client"]
+	path = ntrip-client
+	url = https://github.com/jRmx0/BladeOfGrass-NTRIP-client.git
